@@ -1,0 +1,6 @@
+http://kiwwito.com/installing-opengl-glut-libraries-in-ubuntu/
+
+g++ -Wall -o main main.cpp -lglut -lGL -lGLU
+
+
+g++ -o Meu meuProgManeiro.cpp -lglut -lGL -lGLU
